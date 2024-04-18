@@ -113,7 +113,7 @@ export default function Carrusel() {
                 <Image source={item} style={styles.posterImage} />
                 <Text style={{ fontWeight: "bold", fontSize: 30 }}>
                   {" "}
-                  hola pichancha
+                  Bienvenido a la appAire
                 </Text>
               </Animated.View>
             </View>
